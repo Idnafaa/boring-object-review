@@ -12,11 +12,11 @@ A one-line review of the most boring everyday object â€” a spare shirt button â€
 python3 main.py
 ```
 
-Writes one line (104 characters) to `/output/entry.txt`.
+Writes one line (122 characters) to `/output/entry.txt`.
 
 ## The review
 
-> The spare button sewn inside your shirt has waited ten years for a job interview that will never happen.
+> The spare button sewn inside your shirt has spent a decade on standby, waiting for a job interview that will never happen.
 
 ---
 
