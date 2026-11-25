@@ -7,8 +7,8 @@ everyday object imaginable to /output/entry.txt.
 import os
 
 REVIEW = (
-    "The spare button sewn inside your shirt has waited ten years "
-    "for a job interview that will never happen."
+    "The spare button sewn inside your shirt has spent a decade on standby, "
+    "waiting for a job interview that will never happen."
 )
 
 def main():
